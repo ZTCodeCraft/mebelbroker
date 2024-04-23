@@ -8699,7 +8699,7 @@ textarea.form-control-lg {
 
 .bg-secondary {
   --ar-bg-opacity: 1;
-  background-color: var(--ar-gray-100) !important;
+  background-color: #e4dbd252 !important;
 }
 
 .bg-success {
